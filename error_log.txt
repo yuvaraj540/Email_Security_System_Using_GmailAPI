@@ -1,0 +1,1 @@
+Error while checking URL 'https://github.com/fennybz/Detecting-Phishing-Attack-using-ML-DL-Models': Can't get attribute 'sanitization' on <module '__main__' from 'D:\\vm\\email\\Fetch from Gmail\\merge.py'>

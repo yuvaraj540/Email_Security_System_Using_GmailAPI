@@ -1,0 +1,92 @@
+[
+    {
+        "from": "Kalidas Jagandas <jagandas.kb10@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Test",
+        "attachment": "lane.pdf",
+        "attachment_conversion": "SUCCESS",
+        "attachment_location": "Kalidas_Jagandas_jagandas_dot_kb10_at_gmail_dot_com_yuvarajanb92_at_gmail_dot_com_Test",
+        "link": "https://github.com/Vipin-Singh-Negi/Identify-Phishing-Mail",
+        "url_status": "good"
+    },
+    {
+        "from": "Kalidas Jagandas <jagandas.kb10@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Sample",
+        "attachment": "fsi-2007.xlsx, sample-files.com-basic-text - Copy.docx",
+        "attachment_conversion": "SUCCESS",
+        "attachment_location": "Kalidas_Jagandas_jagandas_dot_kb10_at_gmail_dot_com_yuvarajanb92_at_gmail_dot_com_Sample",
+        "link": "none",
+        "url_status": "unknown"
+    },
+    {
+        "from": "Yazhini L <yazhinil745@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Check",
+        "attachment": "None",
+        "attachment_conversion": "NO",
+        "attachment_location": "None",
+        "link": "https://manhwaclan.com/manga/invincible-at-the-start/chapter-43/",
+        "url_status": "good"
+    },
+    {
+        "from": "Yazhini L <yazhinil745@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Check 2",
+        "attachment": "None",
+        "attachment_conversion": "NO",
+        "attachment_location": "None",
+        "link": "https://manhuatop.org/manhua/i-have-90-billion-licking-gold/chapter-33/",
+        "url_status": "malicious"
+    },
+    {
+        "from": "Yazhini L <yazhinil745@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Check 1",
+        "attachment": "Final Report.pdf, Report 1-1.docx",
+        "attachment_conversion": "SUCCESS",
+        "attachment_location": "Yazhini_L_yazhinil745_at_gmail_dot_com_yuvarajanb92_at_gmail_dot_com_Check_1",
+        "link": "https://www.timesbull.com/gadgets/iqoo-neo-10-launch-date-first-smartphone-in-the-segment-with-144fps-gaming-and-7000mah-battery-495709.html",
+        "url_status": "good"
+    },
+    {
+        "from": "Yazhini L <yazhinil745@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Check 3",
+        "attachment": "None",
+        "attachment_conversion": "NO",
+        "attachment_location": "None",
+        "link": "https://manhuatop.org/manhua/i-have-90-billion-licking-gold/chapter-33/",
+        "url_status": "malicious"
+    },
+    {
+        "from": "Yazhini L <yazhinil745@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Uu",
+        "attachment": "None",
+        "attachment_conversion": "NO",
+        "attachment_location": "None",
+        "link": "none",
+        "url_status": "unknown"
+    },
+    {
+        "from": "Yuvarajan B <yuvanyuvarajan49@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Jjj",
+        "attachment": "None",
+        "attachment_conversion": "NO",
+        "attachment_location": "None",
+        "link": "none",
+        "url_status": "unknown"
+    },
+    {
+        "from": "Yuvarajan B <yuvanyuvarajan49@gmail.com>",
+        "to": "yuvarajanb92@gmail.com",
+        "subject": "Lllll",
+        "attachment": "aontestguide_cognizant.pdf",
+        "attachment_conversion": "SUCCESS",
+        "attachment_location": "Processed_Attachments\\Yuvarajan_B_yuvanyuvarajan49_at_gmail_dot_com_yuvarajanb92_at_gmail_dot_com_Lllll",
+        "link": "none",
+        "url_status": "unknown"
+    }
+]
